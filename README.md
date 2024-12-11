@@ -1,6 +1,6 @@
 # イチケンについて
 
-[![ICHIKEN_BANNER](https://yt3.googleusercontent.com/f6-BMaVlHZ1VftsGiDfbq5mWuI_ioV4j2WX3hkVElfyl3N0Ak0E-Omb_XGkPR29O0ThHpzLN8sg=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://www.youtube.com/@ICHIKEN1)
+[![ICHIKEN_BANNER](banner.gif)](https://www.youtube.com/@ICHIKEN1)
 
 YouTubeでものづくり系の動画をアップロードしています。
 

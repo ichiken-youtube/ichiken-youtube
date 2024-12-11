@@ -4,6 +4,14 @@
 
 YouTubeでものづくり系の動画をアップロードしています。
 
-動画の内容は電子工作や電化製品の解説から、技術解説など電気電子工学全般の動画を取り扱います。
+電子工作や電化製品の解説から、技術解説など電気電子工学全般の動画を取り扱います。
 
 動画PRをご検討の方は[公式ホームページ](https://ichiken-engineering.com/ichiken-youtube-ad/)をご確認いただけますと幸いです。
+
+## YouTubeの再生リスト
+- [⚡️電気の解説](https://www.youtube.com/playlist?list=PLsjRI4ZEczlBDuz6WDZzrNbGce0iKVC1Y)
+- [🔧分解](https://www.youtube.com/playlist?list=PLsjRI4ZEczlC0TPRcbTzGLMVbuN0ye7sn)
+- [🏭️工場見学](https://www.youtube.com/playlist?list=PLsjRI4ZEczlAIocnVu-A4KwfOqM-g1HBQ)
+- [🔌パワー半導体関連動画](https://www.youtube.com/playlist?list=PLsjRI4ZEczlAZgFuqD1mJLwPTyGfmIaDZ)
+- [🪛電子基礎](https://www.youtube.com/playlist?list=PLsjRI4ZEczlBKDGCKHqy_dltaTSqWTYA8)
+

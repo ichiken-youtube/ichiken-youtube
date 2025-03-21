@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" />
+  <a href="https://www.youtube.com/@ICHIKEN1" target="_blank" ><img src="banner.gif" alt="イチケンバナー"/></a>
 </p>
 
 <div style="text-align: center;">
